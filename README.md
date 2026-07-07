@@ -1,6 +1,6 @@
 # 🛡️ Splunk Threat Detection Lab
 
-### Three Splunk detections built from raw SPL — including one that failed on real data, and why.
+### Three Splunk detections built from raw SPL - including one that failed on real data, and why.
 
 ![Splunk](https://img.shields.io/badge/Splunk_Cloud-9.x-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![SPL](https://img.shields.io/badge/SPL-Detection_Engineering-FF6F00?style=for-the-badge)
